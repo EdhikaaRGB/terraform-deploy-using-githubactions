@@ -1,3 +1,3 @@
-region = "us-east-1"
-bucket = "devops4solutions-terraform"
+region = "ap-south-1"
+bucket = "my-test-s3-2023"
 key    = "ecs/test/terraform.tfstate"
